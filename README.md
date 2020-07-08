@@ -42,12 +42,24 @@ You can restrict who has access to a repository by making a repository public or
 
 <img src="/img/clonerepo_5.PNG" width="1000" />
 
-7. If you want to push changes that you've made to these files back to git and GitHub for use by other lab members later, you should now see that changes have been made when you open the repo in GitHub Desktop. 
+7. If you eventually will want to push changes that you make to these files back to git and GitHub for use by other lab members later, you will want to start your own branch to save your changes. Think of a `master` as the main tree trunck and then a "branch" as a literal branch to that trunk. It's basically where iterations of the main scripts are stored. To make a new branch in GitHub Desktop find the "Current Branch" drop down and type in the name you want to give your new branch.
 
 <img src="/img/clonerepo_6.PNG" width="1000" />
+
+8. Now that you are in your new branch, you want to publish this to GitHub so go ahead and click "Publish your branch."
+
 <img src="/img/clonerepo_7.PNG" width="1000" />
+
+9. You'll work with these files and end up making changes. As you make changes, these changes will appear in the GitHub Desktop. You'll see green text where you've added text, red text where you've removed text, and new files you add will appear on the left with different colored symbols. Give a breif commit message describing the changes you've made next to your profile image in the bottom left, then click "Commit to ashleys_branch."
+
 <img src="/img/clonerepo_8.PNG" width="1000" />
+
+10. After you've commited these changes you need to "push" them to GitHub by clicking the blue "Push origin" button in the middle of the page.
+
 <img src="/img/clonerepo_9.PNG" width="1000" />
+
+11. Done! Go to the GitHub website and see your new branch. There's no need to do the "Compare pull request," that's only if you want your changes to replace what's happening in the master branch but we'll usually want to keep them separate. 
+
 <img src="/img/clonerepo_10.PNG" width="1000" />
 
 ### Have completed code/a toolbox that I want to add to the Nowacek Lab GitHub organization... how do I add my files?
