@@ -17,7 +17,7 @@ You can restrict who has access to a repository by making a repository public or
 
 2. Download the [GitHub Desktop](https://desktop.github.com/) app. This GUI will let you interact with GitHub from the desktop and will allow you to push/pull changes that you may make both locally and in your repo on the GitHub website without needing to use the terminal. 
 
-3. Open GitHub Desktop.
+3. Open GitHub Desktop and follow directions to connect to your GitHub account.
 
 ---
 
