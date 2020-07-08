@@ -29,14 +29,15 @@ With each commit, you have the opportunity to write a commit message (**do it!**
 ### Making a new repo
 When you start a new project, you'll probably want to create a new repository for it on GitHub. 
 
-Let's say you want to start a project to look at the distribution of diving patterns of pilot whales throughout the course of a day beacuse you hypothesize that pilot whales might concentrate long dives during the day and spend more of the night time at the surface under the protection of darkness. Because this proejct is going to be a collaboration with people in the Nowacek Lab and you want to make the data, code, and results available to others in the lab you decide to make your project repo on with the Nowacek Lab organization.
-
 1. On the organization [homepage](https://github.com/NowacekLab) click "New"
 <img src="/img/createnewrepo_1.PNG" width="600"/>
 
-
 2. Give your repository a name, a description, and initialize it with a README
+<img src="/img/createnewrepo_2.PNG" width="600"/>
 
-3. Add some info to the README file
+3. You've created a repo! It should look like this.
+<img src="/img/createnewrepo_3.PNG" width="600"/>
 
-You're probably going to need a few things to answer this question, namely **data** that gives you the dive profiles of pilot whales throughout the day, **documents** where you might have your .docx or .pptx files where you're writing your manuscript, **code** where you have your code to analyze the data, and **results** where you are saving the outputs of your analyses.
+4. From here you can edit your README file
+<img src="/img/createnewrepo_4.PNG" width="600"/>
+
