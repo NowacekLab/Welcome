@@ -21,11 +21,11 @@ You can restrict who has access to a repository by making a repository public or
 #### I want to use code/a toolbox that exists in the Nowacek Lab GitHub organization... how do I get copies of the files?
 
 1. Go to the [home page](https://github.com/NowacekLab) and click on the name of the relevant repo where the code exists that you want to use. 
-<img src="/img/clonerepo_1.jpg" width="600" />
+<img src="img/clonerepo_1.PNG" width="600" />
 2. On the right you should see a green button that says "Code." Click on this button and in the drop down select "Open with GitHub Desktop."
-<img src="/img/clonerepo_2.jpg" width="600" />
+<img src="/img/clonerepo_2.PNG" width="600" />
 3. Your browser may prompot you to open GitHub Desktop, if so click "Open GitHub Desktop"
-<img src="/img/clonerepo_3.jpg" width="600" />
+<img src="/img/clonerepo_3.PNG" width="600" />
 4. This should take you into GitHub Desktop where you'll be asked to define the Local Path for the local copy of the git repo. **This is where the files will be stored locally just like any other file that you may create in some directory on your computer.** It's totally up to you and will probably depend on how you choose to organize files on your computer.
 5. Click clone!
 6. Now you have the files from the GitHub repo locally (on your computer) and can use them like any other file. 
