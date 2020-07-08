@@ -25,6 +25,14 @@ When you make any change to any file in your project (and save it), you’re mak
 With each commit, you have the opportunity to write a commit message (**do it!**), a short, meaningful (**the more descriptive the better!**) comment describing the change you’re making to a file. So you always know exactly what changed, no matter when you return to a commit. For the most part when you make a commit you'll want to commit to the `master` branch. The alternative is to 'Create a **new branch** for this commit and start a pull request,' which you'll only want to use when you make changes on your own "branch" of the repo and bascially want to offer those changes to the `master` branch as changes to consider for which they can choose to accpet or not.
 
 ### Making a new repo
-When you start a new porject, you'll probably want to create a new repository for it. I'm going to give a toy example of wha thtis might look like for you to follow along when you want to start your own. 
+When you start a new project, you'll probably want to create a new repository for it on GitHub. 
 
-Let's say you want to start a project to look at the distribution of diving patterns of pilot whales throughout the course of a day beacuse you hypothesize that pilot whales might concentrate long dives during the day and  spend more of the night time at the surface under the protection of darkness. You're probably going to need a few things to answer this question, namely **data** that gives you the dive profiles of pilot whales throughout the day, **documents** where you might have your .docx or .pptx files where you're writing your manuscript, **code** where you have your code to analyze the data, and **results** where you are saving the outputs of your analyses.
+Let's say you want to start a project to look at the distribution of diving patterns of pilot whales throughout the course of a day beacuse you hypothesize that pilot whales might concentrate long dives during the day and spend more of the night time at the surface under the protection of darkness. Because this proejct is going to be a collaboration with people in the Nowacek Lab and you want to make the data, code, and results available to others in the lab you decide to make your project repo on with the Nowacek Lab organization.
+
+1. On the organization [homepage](https://github.com/NowacekLab) click "New"
+
+2. Give your repository a name, a description, and initialize it with a README
+
+3. Add some info to the README file
+
+You're probably going to need a few things to answer this question, namely **data** that gives you the dive profiles of pilot whales throughout the day, **documents** where you might have your .docx or .pptx files where you're writing your manuscript, **code** where you have your code to analyze the data, and **results** where you are saving the outputs of your analyses.
