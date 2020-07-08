@@ -2,7 +2,7 @@
 This repository will help you to get started with the Nowacek Lab GitHub organization. It contains information on how to make use of existing repos, add repos, and contribute to projects.
 
 ### What is a repository? (adapted from the GitHub documentation)
-Right now, we’re in a GitHub repository within the Nowacek Lab orgnaization called "Welcome". A repository is like a folder or storage space for your project. Your project's repository contains all its files such as code, documentation, images, and more. It also tracks every change that you—or your collaborators—make to each file, so you can always go back to previous versions of your project if you make any mistakes.
+Right now, we’re in a GitHub repository within the Nowacek Lab organization called "Welcome". A repository is like a folder or storage space for your project. If you go to the home page of this organization (https://github.com/NowacekLab), you can see what other repo's exist in this organization which look at lot more like a typical repo. Your project's repository contains all its files such as code, documentation, images, and more. It also tracks every change that you—or your collaborators—make to each file, so you can always go back to previous versions of your project if you make any mistakes.
 
 You can own repositories individually (on your own GitHub account), or you can share ownership of repositories with other people in an organization (like the Nowacek Lab). 
 
