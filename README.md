@@ -42,6 +42,8 @@ You can restrict who has access to a repository by making a repository public or
 
 <img src="/img/clonerepo_5.PNG" width="1000" />
 
+7. If you want to push changes that you've made to these files back to git and GitHub for use by other lab members later, you should now see that changes have been made when you open the repo in GitHub Desktop. 
+
 ### Have completed code/a toolbox that I want to add to the Nowacek Lab GitHub organization... how do I add my files?
 
 ### I want to actively work on code/a toolbox with another lab member and want to store our work on the Nowacek Lab GitHub organization... how do I add my files/edit them?
