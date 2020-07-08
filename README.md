@@ -11,7 +11,7 @@ You can own repositories individually (on your own GitHub account), or you can s
 You can restrict who has access to a repository by making a repository public or private. You'll have this option when you first make a repository and can change it at any time in the settings tab. 
 
 
-### Set up
+### How do I get set up to make sure this thing works?
 1. Make a GitHub account. If you are viewing this you probably already have one. 
 
 2. Download the [GitHub Desktop](https://desktop.github.com/) app. This GUI will let you interact with GitHub from the desktop and will allow you to push/pull changes that you may make both locally and in your repo on the GitHub website without needing to use the terminal. 
