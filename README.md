@@ -11,15 +11,20 @@ You can restrict who has access to a repository by mkaing a repository public or
 ### README files
 Every repository should have a README file to tell other people why your project is useful, what they can do with your project, and how they can use it. README.md files are typically written in Markdown which is what the ".md" stands for. Your README file will be the first thing a person sees when they look at your repo.README files typically include information on:
 
-*What the project does
-*Why the project is useful
-*How users can get started with the project
-*Where users can get help with your project
-*Who maintains and contributes to the project
+* What the project does
+* Why the project is useful
+* How users can get started with the project
+* Where users can get help with your project
+* Who maintains and contributes to the project
 
 There's a bunch of info out there about how to make a good README but [here's one place to start](https://www.makeareadme.com/). [Here's a good cheat sheet for Markdown](https://commonmark.org/help/) so you can make nice looking README's.
 
 ### Editing repos
 When you make any change to any file in your project (and save it), you’re making a commit. If you fix a typo, update a filename, or edit your code, you can add it to GitHub as a commit. Your commits represent your project’s entire history—and they’re all saved in your project’s repository.
 
-With each commit, you have the opportunity to write a commit message (**do it!**), a short, meaningful (**the more descriptive the better!**) comment describing the change you’re making to a file. So you always know exactly what changed, no matter when you return to a commit. For the most part when you make a commit you'll want to commit to the `master` branch. The alternative is to 'Create a **new branch** for this commit and start a pull request,' which you'll only want to use when you make changes on your own "branch" of the repo and bascially want to offer those changes to the `master` branch as changes to consider, but not set in stone. 
+With each commit, you have the opportunity to write a commit message (**do it!**), a short, meaningful (**the more descriptive the better!**) comment describing the change you’re making to a file. So you always know exactly what changed, no matter when you return to a commit. For the most part when you make a commit you'll want to commit to the `master` branch. The alternative is to 'Create a **new branch** for this commit and start a pull request,' which you'll only want to use when you make changes on your own "branch" of the repo and bascially want to offer those changes to the `master` branch as changes to consider for which they can choose to accpet or not.
+
+### Making a new repo
+When you start a new porject, you'll probably want to create a new repository for it. I'm going to give a toy example of wha thtis might look like for you to follow along when you want to start your own. 
+
+Let's say you want to start a project to look at the distribution of diving patterns of pilot whales throughout the course of a day beacuse you hypothesize that pilot whales might concentrate long dives during the day and  spend more of the night time at the surface under the protection of darkness. You're probably going to need a few things to answer this question, namely **data** that gives you the dive profiles of pilot whales throughout the day, **documents** where you might have your .docx or .pptx files where you're writing your manuscript, **code** where you have your code to analyze the data, and **results** where you are saving the outputs of your analyses.
