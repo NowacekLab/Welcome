@@ -30,7 +30,7 @@ When you start a new project, you'll probably want to create a new repository fo
 Let's say you want to start a project to look at the distribution of diving patterns of pilot whales throughout the course of a day beacuse you hypothesize that pilot whales might concentrate long dives during the day and spend more of the night time at the surface under the protection of darkness. Because this proejct is going to be a collaboration with people in the Nowacek Lab and you want to make the data, code, and results available to others in the lab you decide to make your project repo on with the Nowacek Lab organization.
 
 1. On the organization [homepage](https://github.com/NowacekLab) click "New"
-![Test Image 4](https://github.com/tograh/testrepository/3DTest.png 165)
+![Test Image 4](https://github.com/NowacekLab/Welcome/img/createnewrepo_1.PNG)
 
 2. Give your repository a name, a description, and initialize it with a README
 
