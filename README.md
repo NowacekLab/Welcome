@@ -46,11 +46,11 @@ You can restrict who has access to a repository by making a repository public or
 
 <img src="/img/clonerepo_6.PNG" width="1000" />
 
-8. Now that you are in your new branch, you want to publish this to GitHub so go ahead and click "Publish your branch."
+8. Now that you are in your new branch, you want to publish this to GitHub so go ahead and click "Publish branch."
 
 <img src="/img/clonerepo_7.PNG" width="1000" />
 
-9. You'll work with these files and end up making changes. As you make changes, these changes will appear in the GitHub Desktop. You'll see green text where you've added text, red text where you've removed text, and new files you add will appear on the left with different colored symbols. Give a breif commit message describing the changes you've made next to your profile image in the bottom left, then click "Commit to ashleys_branch."
+9. You'll work with these files and end up making changes. As you make changes, these changes will appear in the GitHub Desktop. You'll see green text where you've added text, red text where you've removed text, and new files you add will appear on the left with different colored symbols. Give a brief commit message describing the changes you've made next to your profile image in the bottom left, then click "Commit to ashleys_branch."
 
 <img src="/img/clonerepo_8.PNG" width="1000" />
 
