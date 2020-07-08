@@ -69,6 +69,10 @@ You can restrict who has access to a repository by making a repository public or
 
 ### Have completed code/a toolbox that I want to add to the Nowacek Lab GitHub organization... how do I add my files?
 
+Create a new repo, 
+Publish it to the Nowacek Lab GitHub organization,
+If you fix bugs in the future commit those changes!
+
 ---
 
 ### I want to actively work on code/a toolbox with another lab member and want to store our work on the Nowacek Lab GitHub organization... how do I add my files/edit them?
@@ -91,6 +95,6 @@ There's a bunch of info out there about how to make a good README but [here's on
 #### Editing repos
 When you make any change to any file in your project (and save it), you’re making a commit. If you fix a typo, update a filename, or edit your code, you can add it to GitHub as a commit. Your commits represent your project’s entire history—and they’re all saved in your project’s repository.
 
-With each commit, you have the opportunity to write a commit message (**do it!**), a short, meaningful (**the more descriptive the better!**) comment describing the change you’re making to a file. So you always know exactly what changed, no matter when you return to a commit. For the most part when you make a commit you'll want to commit to the `master` branch. The alternative is to "Create a **new branch** for this commit and start a pull request," which you'll only want to use when you make changes on your own 'branch' of the repo and bascially want to offer those changes to the `master` branch to consider which they can later choose to accpet or not.
+With each commit, you have the opportunity to write a commit message (**do it!**), a short, meaningful (**the more descriptive the better!**) comment describing the change you’re making to a file. So you always know exactly what changed, no matter when you return to a commit. For the most part when you make a commit you'll want to commit to the `master` branch. The alternative is to "Create a **new branch** for this commit and start a pull request," which you'll only want to use when you make changes on your own 'branch' of the repo and bascially want to offer those changes to the `master` branch to consider which they can later choose to accept or not.
 
 
