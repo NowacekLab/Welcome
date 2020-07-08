@@ -10,6 +10,7 @@ You can own repositories individually (on your own GitHub account), or you can s
 
 You can restrict who has access to a repository by making a repository public or private. You'll have this option when you first make a repository and can change it at any time in the settings tab. 
 
+---
 
 ### How do I get set up?
 1. Make a GitHub account. If you are viewing this you probably already have one. 
@@ -17,6 +18,8 @@ You can restrict who has access to a repository by making a repository public or
 2. Download the [GitHub Desktop](https://desktop.github.com/) app. This GUI will let you interact with GitHub from the desktop and will allow you to push/pull changes that you may make both locally and in your repo on the GitHub website without needing to use the terminal. 
 
 3. Open GitHub Desktop.
+
+---
 
 ### I want to use code/a toolbox that exists in the Nowacek Lab GitHub organization... how do I get copies of the files?
 
@@ -62,9 +65,15 @@ You can restrict who has access to a repository by making a repository public or
 
 <img src="/img/clonerepo_10.PNG" width="1000" />
 
+---
+
 ### Have completed code/a toolbox that I want to add to the Nowacek Lab GitHub organization... how do I add my files?
 
+---
+
 ### I want to actively work on code/a toolbox with another lab member and want to store our work on the Nowacek Lab GitHub organization... how do I add my files/edit them?
+
+---
 
 ### More information about GitHub
 
