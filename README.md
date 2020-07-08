@@ -18,7 +18,7 @@ You can restrict who has access to a repository by making a repository public or
 
 3. Open GitHub Desktop.
 
-#### I want to use code/a toolbox that exists in the Nowacek Lab GitHub organization... how do I get copies of the files?
+### I want to use code/a toolbox that exists in the Nowacek Lab GitHub organization... how do I get copies of the files?
 
 1. Go to the [home page](https://github.com/NowacekLab) and click on the name of the repo where the code exists that you want to use. 
 
@@ -42,9 +42,9 @@ You can restrict who has access to a repository by making a repository public or
 
 <img src="/img/clonerepo_5.PNG" width="1000" />
 
-#### Have completed code/a toolbox that I want to add to the Nowacek Lab GitHub organization... how do I add my files?
+### Have completed code/a toolbox that I want to add to the Nowacek Lab GitHub organization... how do I add my files?
 
-#### I want to actively work on code/a toolbox with another lab member and want to store our work on the Nowacek Lab GitHub organization... how do I add my files/edit them?
+### I want to actively work on code/a toolbox with another lab member and want to store our work on the Nowacek Lab GitHub organization... how do I add my files/edit them?
 
 ### More information about GitHub
 
