@@ -1,6 +1,8 @@
 # Welcome
 This repository will help you to get started with the Nowacek Lab GitHub organization. It contains information on how to make use of existing repos, add repos, and contribute to projects.
 
+The purpose of having this GitHub organization is to 1) share finished code/toolboxes between people in the lab and 2) work on analyses for proejcts that are collaboartiosn between lab members. 
+
 ## What is a repository? (adapted from the GitHub documentation)
 Right now, we’re in a GitHub repository within the Nowacek Lab organization called "Welcome". A repository is like a folder or storage space for your project. If you go to the [home page of this organization](https://github.com/NowacekLab), you can see what other repo's exist in this organization which look at lot more like a typical repo. Your project's repository contains all its files such as code, documentation, images, and more. It also tracks every change that you—or your collaborators—make to each file, so you can always go back to previous versions of your project if you make any mistakes.
 
@@ -30,7 +32,7 @@ When you start a new project, you'll probably want to create a new repository fo
 Let's say you want to start a project to look at the distribution of diving patterns of pilot whales throughout the course of a day beacuse you hypothesize that pilot whales might concentrate long dives during the day and spend more of the night time at the surface under the protection of darkness. Because this proejct is going to be a collaboration with people in the Nowacek Lab and you want to make the data, code, and results available to others in the lab you decide to make your project repo on with the Nowacek Lab organization.
 
 1. On the organization [homepage](https://github.com/NowacekLab) click "New"
-<img src="/img/createnewrepo_1.PNG" width="200" height="200" />
+<img src="/img/createnewrepo_1.PNG" width="600"/>
 
 
 2. Give your repository a name, a description, and initialize it with a README
