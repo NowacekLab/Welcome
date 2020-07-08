@@ -9,7 +9,7 @@ You can own repositories individually (on your own GitHub account), or you can s
 You can restrict who has access to a repository by mkaing a repository public or private. You'll have this option when you first make a repository and can change it at any time in the settings tab. If you're unsure, it's probably best to just make it private. You can always make it public later.
 
 ### README files
-Every repository should have a README file to your repository to tell other people why your project is useful, what they can do with your project, and how they can use it. README.md files are typically written in Markdown which is what the ".md" stands for. Your README file will be the first thing a person sees when they look at your repo.README files typically include information on:
+Every repository should have a README file to tell other people why your project is useful, what they can do with your project, and how they can use it. README.md files are typically written in Markdown which is what the ".md" stands for. Your README file will be the first thing a person sees when they look at your repo.README files typically include information on:
 
 *What the project does
 *Why the project is useful
@@ -18,3 +18,8 @@ Every repository should have a README file to your repository to tell other peop
 *Who maintains and contributes to the project
 
 There's a bunch of info out there about how to make a good README but [here's one place to start](https://www.makeareadme.com/). [Here's a good cheat sheet for Markdown](https://commonmark.org/help/) so you can make nice looking README's.
+
+### Editing repos
+When you make any change to any file in your project (and save it), you’re making a commit. If you fix a typo, update a filename, or edit your code, you can add it to GitHub as a commit. Your commits represent your project’s entire history—and they’re all saved in your project’s repository.
+
+With each commit, you have the opportunity to write a commit message (do it!), a short, meaningful (the more descriptive the better!) comment describing the change you’re making to a file. So you always know exactly what changed, no matter when you return to a commit.
