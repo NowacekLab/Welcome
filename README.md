@@ -35,7 +35,7 @@ You can restrict who has access to a repository by making a repository public or
 
 <img src="/img/clonerepo_3.PNG" width="600" />
 
-4. This should take you into GitHub Desktop where you'll be asked to define the Local Path (**don't change the Repository URL**). **This is where the files will be stored locally (aka on your computer) just like any other file that you may create in some directory on your computer.** It's totally up to you and will probably depend on how you choose to organize your files.
+4. This should take you into GitHub Desktop where you'll be asked to define the Local Path (**don't change the Repository URL**). **The Local Path is where the files will be stored locally (aka on your computer) just like any other file that you may create in some directory on your computer.** It's totally up to you and will probably depend on how you choose to organize your files.
 
 <img src="/img/clonerepo_4.PNG" width="600" />
 
@@ -45,7 +45,7 @@ You can restrict who has access to a repository by making a repository public or
 
 <img src="/img/clonerepo_5.PNG" width="1000" />
 
-7. If you eventually will want to push changes that you make to these files back to git and GitHub for use by other lab members later, you will want to start your own branch to save your changes. Think of a `master` as the main tree trunck and then a "branch" as a literal branch to that trunk. It's basically where iterations of the main scripts are stored. To make a new branch in GitHub Desktop find the "Current Branch" drop down and type in the name you want to give your new branch.
+7. If you eventually will want to push changes that you make to these files back to git and GitHub for use by other lab members later, you will want to start your own branch to save your changes. Think of a `master` as the main tree trunck and then a "branch" as a literal branch to that trunk. It's basically where iterations of the main scripts are stored. To make a new branch in GitHub Desktop find the "Current Branch" drop down and type in the name you want to give your new branch and then create it.
 
 <img src="/img/clonerepo_6.PNG" width="1000" />
 
@@ -53,7 +53,7 @@ You can restrict who has access to a repository by making a repository public or
 
 <img src="/img/clonerepo_7.PNG" width="1000" />
 
-9. You'll work with these files and end up making changes. As you make changes, these changes will appear in the GitHub Desktop. You'll see green text where you've added text, red text where you've removed text, and new files you add will appear on the left with different colored symbols. Give a brief commit message describing the changes you've made next to your profile image in the bottom left, then click "Commit to ashleys_branch."
+9. You'll (hopefully) work with the files and end up making changes. As you make changes, these changes will appear in the GitHub Desktop. You'll see green text where you've added text, red text where you've removed text, and new files you add will appear on the left with different colored symbols. Give a brief commit message describing the changes you've made next to your profile image in the bottom left, then click "Commit to *whatever you named your branch*."
 
 <img src="/img/clonerepo_8.PNG" width="1000" />
 
