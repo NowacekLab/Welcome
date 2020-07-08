@@ -26,18 +26,4 @@ When you make any change to any file in your project (and save it), you’re mak
 
 With each commit, you have the opportunity to write a commit message (**do it!**), a short, meaningful (**the more descriptive the better!**) comment describing the change you’re making to a file. So you always know exactly what changed, no matter when you return to a commit. For the most part when you make a commit you'll want to commit to the `master` branch. The alternative is to "Create a **new branch** for this commit and start a pull request," which you'll only want to use when you make changes on your own 'branch' of the repo and bascially want to offer those changes to the `master` branch to consider which they can later choose to accpet or not.
 
-### Making a new repo
-When you start a new project, you'll probably want to create a new repository for it on GitHub. 
-
-1. On the organization [homepage](https://github.com/NowacekLab) click "New"
-<img src="/img/createnewrepo_1.PNG" width="600"/>
-
-2. Give your repository a name, a description, and initialize it with a README
-<img src="/img/createnewrepo_2.PNG" width="600"/>
-
-3. You've created a repo! It should look like this.
-<img src="/img/createnewrepo_3.PNG" width="600"/>
-
-4. From here you can edit your README file
-<img src="/img/createnewrepo_4.PNG" width="600"/>
 
