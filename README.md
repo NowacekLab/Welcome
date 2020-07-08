@@ -32,13 +32,13 @@ You can restrict who has access to a repository by making a repository public or
 
 <img src="/img/clonerepo_3.PNG" width="600" />
 
-4. This should take you into GitHub Desktop where you'll be asked to define the Local Path for the local copy of the git repo. **This is where the files will be stored locally just like any other file that you may create in some directory on your computer.** It's totally up to you and will probably depend on how you choose to organize files on your computer.
+4. This should take you into GitHub Desktop where you'll be asked to define the Local Path (** don't change the Repository URL **) for the local copy of the git repo. **This is where the files will be stored locally just like any other file that you may create in some directory on your computer.** It's totally up to you and will probably depend on how you choose to organize files on your computer.
 
 <img src="/img/clonerepo_4.PNG" width="600" />
 
 5. Click clone!
 
-6. Now you have the files from the GitHub repo locally (on your computer) and can use them like any other file. You will also see the repo appear in your GitHub Desktop and should see that everything is up to date.  
+6. Now you have the files from the GitHub repo locally (on your computer, you can check the Local Path you gvaea GitHub Desktop to make sure) and can use them like any other file. You will also see the repo appear in your GitHub Desktop and should see that everything is up to date.  
 
 <img src="/img/clonerepo_5.PNG" width="1000" />
 
