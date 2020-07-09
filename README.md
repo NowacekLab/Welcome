@@ -1,7 +1,7 @@
 # Welcome
 This repository will help you to get started with the Nowacek Lab GitHub organization. It contains information on how to make use of existing repos, add repos, and contribute to projects.
 
-The purpose of having this GitHub organization is to 1) share finished code/toolboxes between people in the lab and 2) work on analyses for proejcts that are collaboartions between lab members. Individual projects that are unfinishedare best kept on your personal GitHub.
+The purpose of having this GitHub organization is to 1) share finished code/toolboxes between people in the lab and 2) work on analyses for projects that are collaborations between lab members. Individual projects that are unfinished are best kept on your personal GitHub.
 
 ### How do I get set started with all the whales and stuff?
 1. Make a GitHub account. If you are viewing this you probably already have one. 
