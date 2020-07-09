@@ -13,7 +13,7 @@ The purpose of having this GitHub organization is to 1) share finished code/tool
 
 ---
 
-### I want to use code/a toolbox that exists in the Nowacek Lab GitHub organization... how do I get copies of the files?
+### I want to use code/a toolbox that exists in the Nowacek Lab GitHub organization, how do I get copies of the files?
 
 1. Go to the [home page](https://github.com/NowacekLab) and click on the name of the repo where the code exists that you want to use. 
 
@@ -59,7 +59,7 @@ The purpose of having this GitHub organization is to 1) share finished code/tool
 
 ---
 
-### Have completed code/a toolbox that I want to add to the Nowacek Lab GitHub organization... how do I add my files?
+### I have completed code/a toolbox that I want to add to the Nowacek Lab GitHub organization, how do I add my files?
 
 Create a new repo, 
 Publish it to the Nowacek Lab GitHub organization,
@@ -67,7 +67,7 @@ If you fix bugs in the future commit those changes!
 
 ---
 
-### I want to actively work on code/a toolbox with another lab member and want to store our work on the Nowacek Lab GitHub organization... how do I add my files/edit them?
+### I want to actively work on code/a toolbox with another lab member and want to store our work on the Nowacek Lab GitHub organization, how do I add my files/edit them?
 
 ---
 
