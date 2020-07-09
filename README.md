@@ -37,7 +37,7 @@ The purpose of having this GitHub organization is to 1) share finished code/tool
 
 <img src="/img/clonerepo_5.PNG" width="1000" />
 
-7. If you eventually will want to push changes that you make to these files back to git and GitHub for use by other lab members later, you will want to start your own branch to save your changes. Think of a `master` as the main tree trunck and then a "branch" as a literal branch to that trunk. It's basically where iterations of the main scripts are stored. To make a new branch in GitHub Desktop find the "Current Branch" drop down and type in the name you want to give your new branch and then create it.
+7. If you eventually will want to push changes that you make to these files back toGitHub for use by other lab members, you will want to start your own branch to save your changes. Think of a `master` as the main tree trunck and then a "branch" as a literal branch to that trunk. It's basically where iterations of the main scripts are stored. To make a new branch in GitHub Desktop find the "Current Branch" drop down and type in the name you want to give your new branch and then create it.
 
 <img src="/img/clonerepo_6.PNG" width="1000" />
 
@@ -49,7 +49,7 @@ The purpose of having this GitHub organization is to 1) share finished code/tool
 
 <img src="/img/clonerepo_8.PNG" width="1000" />
 
-10. After you've commited these changes you need to "push" them to GitHub by clicking the blue "Push origin" button in the middle of the page.
+10. After you've commited these changes you need to push them to GitHub by clicking the blue "Push origin" button in the middle of the page.
 
 <img src="/img/clonerepo_9.PNG" width="1000" />
 
