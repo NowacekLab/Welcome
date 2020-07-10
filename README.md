@@ -3,9 +3,8 @@ This repository will help you to get started with the Nowacek Lab GitHub organiz
 
 The purpose of having this GitHub organization is to 1) share finished code/toolboxes between people in the lab and 2) work on analyses for projects that are collaborations between lab members. Individual projects that are unfinished are best kept on your personal GitHub.
 
-### To start with step-by-step lessons go [**here!**](https://github.com/NowacekLab/Welcome/blob/master/lesson1.md)
+### To start with step-by-step lessons go [**here!**](https://github.com/NowacekLab/Welcome/blob/master/lesson1.md) For a general review, see below. 
 
-#### Otherwise, for a general review see below. 
 ---
 
 ### How do I get set started?
