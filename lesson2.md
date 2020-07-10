@@ -6,12 +6,7 @@ Like mentioned in the last lesson, you can maintain both local and remote Git re
 
 ### Ways to access a respository
 
-For this group, we will mostly be interested in accessing remote repositories that exist on the Nowacek Lab organization that we want to use/adapt for our project. 
-
-1. Clone in GitHub
-2. Open in GitHub Desktop
-3. Specify location for local repository to be stored
-4. Now you have copies of all the files locally that you can edit and use! 
+For this group, we will mostly be interested in accessing remote repositories that exist on the Nowacek Lab organization that we want to use/adapt for our project. The general process on should follow is Clone in GitHub ...  Open in GitHub Desktop ... Specify location for local repository to be stored ... Now you have copies of all the files locally that you can edit and use! 
 
 Let's practice a real-life example!
 
