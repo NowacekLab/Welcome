@@ -28,6 +28,6 @@ We also may have code that we want to contribute to the repository for others to
 2. Give your repository a name, description, set the path for the local repository, and initialize with a README
 3. Publish the repo to GitHub 
 
-**Option #3: Starting in terminal, then GitHub Desktop (Local then remote)**
+**Option #3: Starting in terminal, then GitHub Desktop (local then remote)**
 
 ### How to communciate changes between loca and remote repositories
