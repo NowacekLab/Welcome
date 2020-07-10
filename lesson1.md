@@ -1,4 +1,4 @@
-# Lesson 1 (A pre-turtorial tutorial)
+# Lesson 1 (A pre-tutorial tutorial)
 
 ## Getting set up with GitHub and GitHub Desktop
 
