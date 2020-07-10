@@ -1,3 +1,5 @@
+# Lesson 1
+
 ## Getting set up with GitHub and GitHub Desktop
 
 1. Follow [instructions](https://www.atlassian.com/git/tutorials/install-git) to download and install Git onto your machine
