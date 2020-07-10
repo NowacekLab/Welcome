@@ -22,3 +22,4 @@ Let's practice a real-life example!
 ![Fireworks GIF](http://bestanimations.com/Holidays/Fireworks/fireworks/gold-fireworks-mass-gif.gif#.XwiptY4191Y.link)
 
 
+## Onto the next lesson here! (Or go back a lesson [here!](https://github.com/NowacekLab/Welcome/blob/master/lesson1.md))
