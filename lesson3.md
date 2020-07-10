@@ -29,8 +29,9 @@ Now that you've cloned the repository, you are going to want to work with the fi
 14. Make a change and then write a commit message and commit your changes
 15. Now you need to get these changes locally. In GitHub Desktop, you should be in the correct repo and your branch and click "Fetch from origin"
 16. A box will pop up that says "Pull origin," click it
-17. If you now open the file you editted locally you should see these changes!
+17. If you now open the file you edited locally you should see these changes!
 
+<br>
 <br>
 
 <p align="center">
