@@ -50,7 +50,9 @@ A copy of the original branch. When you clone a branch, that new branch is a rem
 ***Repository (“Repo”)***
 In many ways, you can think of a Git repository as a directory that stores all the files, folders, and content needed for your project. What it actually is, is the object database of the project, storing everything from the files themselves, to the versions of those files, commits, deletions, et cetera. Repositories are not limited by user, and can be shared and copied (see: fork).
 
-
+<br>
+<br>
+<br>
 
 Hopefully by the end of this lesson you feel less like this...
 <p align="center">
