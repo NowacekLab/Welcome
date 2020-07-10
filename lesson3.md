@@ -11,7 +11,7 @@ Now that you've cloned the repository, you are going to want to work with the fi
 3. Publish your branch to GitHub by clicking "Publish branch"
 4. Now you have a new branch with copies of all of the files in the `master` branch. Confirm that your Current Branch is the branch that you just made. 
 
-### Make some changes in a new branch
+### Make some changes in a new branch (using a text editor, aka the more common way)
 
 5. You can now edit these files, add more files to the folder, add new folders, etc. This may be done in any text editor or your File Explorer (Atom, Notepad, Matlab, RStudio, VS Code, etc)
 6. Make a change in the "file_you_want_to_access.txt' or add a new file. Save your changes
@@ -23,8 +23,15 @@ Now that you've cloned the repository, you are going to want to work with the fi
 10. Now you want to push these changes to your branch on the remote GitHub repository. Click "Push Origin."
 11. You should be able to see the changes that you just made reflected in the files in your branch on the GitHub website
 
-### Checking for updates 
+### Making some changes in your new branch on the GitHub website
+12. On the GitHub website go to your branch in the repository by using the button on the top left to select the branch
+13. Click on one of the text files and on the right click the pencil to "Edit this file".
+14. Make a change and then write a commit message and commit your changes
+15. Now you need to get these changes locally. In GitHub Desktop, you should be in the correct repo and your branch and click "Fetch from origin"
+16. A box will pop up that says "Pull origin," click it
+17. If you now open the file you editted locally you should see these changes!
 
+<br>
 
 <p align="center">
   <img src="https://cdn.clipart.email/dfce19d5dd38cab91c91171a072957db_confetti-gif-transparent-background-6-gif-images-download_1000-294.gif" />
