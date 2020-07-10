@@ -51,4 +51,4 @@ Ok, so you have the command line open and you want to initialize a repository fo
 5. 
 
 
-## On to the next [lesson](https://github.com/NowacekLab/Welcome/blob/master/lesson4.md)! (Or go [back a lesson!](https://github.com/NowacekLab/Welcome/blob/master/lesson2.md))
+## On to the next [lesson](https://github.com/NowacekLab/Welcome/blob/master/lesson4.md)! (Or go [back a lesson!](https://github.com/NowacekLab/Welcome/blob/master/lesson3.md))
