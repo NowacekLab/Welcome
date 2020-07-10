@@ -13,7 +13,7 @@ GitHub is a Git repository hosting service that allows you to keep track of and 
 
 ### Some git terms explained (adapted from linuxacademy.com)
 
-*Branch*
+***Branch***
 A version of the repository that diverges from the main working project. Branches can be a new version of a repository, experimental changes, or personal forks of a repository for users to alter and test changes.
 
 *Clone*
