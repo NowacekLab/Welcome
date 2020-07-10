@@ -8,8 +8,10 @@ The purpose of having this GitHub organization is to 1) share finished code/tool
 
 ### We've written a step-by-step lesson plan to get you up to speed with the most common functionalities of Git and GitHub. Let's get started with [Lesson 1!](https://github.com/NowacekLab/Welcome/blob/master/lesson1.md) 
 
+<br>
+
 <p align="center">
-  <img src="https://memegenerator.net/img/instances/81909582/ok-team-lets-do-this.jpg", height="300" />
+  <img src="https://memegenerator.net/img/instances/81175594/lets-go-team-we-got-this.jpg", height="300" />
 </p>
  
 
