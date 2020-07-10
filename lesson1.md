@@ -1,6 +1,6 @@
 ## Getting set up with GitHub and GitHub Desktop
 
-1. Download [Git](https://git-scm.com/downloads)
+1. Follow [instructions] to downlad and install Git (https://www.atlassian.com/git/tutorials/install-git)
 2. Make [GitHub](https://github.com/) account
 3. Join the [Nowacek Lab](https://github.com/NowacekLab) organization
 4. Download [GitHub Desktop](https://desktop.github.com/)
