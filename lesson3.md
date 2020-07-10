@@ -11,8 +11,7 @@ Now that you've cloned the repository, you are going to want to work with the fi
 1. In GitHub Desktop find the "Current Branch" drop down on the top menu bar
 2. Click on it and click "New Branch". Create a new branch, maybe call it "yournames_branch"
 3. Publish your branch to GitHub by clicking "Publish branch"
-4. Now you have a new branch with copies of all of the files in the `master` branch. Confirm that your Current Branch is the branch that you just made. 
-
+4. Now you have a new branch with copies of all of the files in the `master` branch. 
 ### Make some changes in a new branch (using a text editor, aka the more common way)
 
 5. In GitHub Desktop (confirm that your Current Branch is the branch that you just made) you can now edit these files, add more files to the folder, add new folders, etc. This may be done in any text editor or your File Explorer (Atom, Notepad, Matlab, RStudio, VS Code, etc)
