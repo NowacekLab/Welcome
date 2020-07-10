@@ -28,7 +28,11 @@ We also may have code that we want to contribute to the repository for others to
 <br>
 <br>
 
-https://memegenerator.net/img/instances/x300/65104689.jpg
+<p align="center">
+  <img src="https://memegenerator.net/img/instances/x300/65104689.jpg" />
+</p>
 
+<br>
+<br>
 
 ###(Go [back a lesson!](https://github.com/NowacekLab/Welcome/blob/master/lesson3.md))
