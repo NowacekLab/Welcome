@@ -2,7 +2,7 @@
 
 ## Getting set up with GitHub and GitHub Desktop
 
-1. Check if you already have Git installed on your computer using either Terminal (Mac) or Command Prompt (Windows) Use the search bar to find your Terminal/Command Prompt and open it then  type `git --version` then hit Enter. If you get something that looks like a version number then you alreayd have Git installed and should skip to 3.
+1. Check if you already have Git installed on your computer using either Terminal (Mac) or Command Prompt (Windows) Use the search bar to find your Terminal/Command Prompt and open it then  type `git --version` then hit Enter. If you get something that looks like a version number then you already have Git installed and should skip to 3.
 2. Follow [instructions](https://www.atlassian.com/git/tutorials/install-git) to download and install Git onto your machine
 3. Make a [GitHub](https://github.com/) account (you should have one if you are viewing this)
 4. Join the [Nowacek Lab](https://github.com/NowacekLab) organization (you should have already if you are viewing this)
