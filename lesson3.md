@@ -1,4 +1,6 @@
-# Making and pushing changes
+# Lesson 3
+
+## Making and pushing changes
 
 Now that you've cloned the repository, you are going to want to work with the files in that repo. 
 
