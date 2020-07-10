@@ -53,7 +53,7 @@ In many ways, you can think of a Git repository as a directory that stores all t
 <br>
 <br>
 
-Hopefully by the end of this lesson you feel less like this...
+Hopefully by the end of this tutorial you feel less like this...
 <p align="center">
   <img src="https://imgs.xkcd.com/comics/git.png" />
 </p>
