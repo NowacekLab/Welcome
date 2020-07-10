@@ -19,7 +19,13 @@ Let's practice a real-life example!
 5. Click clone!
 6. Check the Local Path you gave it and see if the files are there...  
 
-<img src="http://bestanimations.com/Holidays/Fireworks/fireworks/gold-fireworks-mass-gif.gif#.XwiptY4191Y.link" align = "center" />
+<\br>
 
+<p align="center">
+  <img src="http://bestanimations.com/Holidays/Fireworks/fireworks/gold-fireworks-mass-gif.gif#.XwiptY4191Y.link" />
+</p>
+
+<\br>
+<\br>
 
 ## On to the next [lesson](https://github.com/NowacekLab/Welcome/blob/master/lesson3.md)! (Or go [back a lesson!](https://github.com/NowacekLab/Welcome/blob/master/lesson1.md))
