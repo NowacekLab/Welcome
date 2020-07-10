@@ -1,9 +1,10 @@
 ## Getting set up with GitHub and GitHub Desktop
 
-1. Make [GitHub](https://github.com/) account
-2. Join the [Nowacek Lab](https://github.com/NowacekLab) organization
-3. Download [GitHub Desktop](https://desktop.github.com/)
-4. Login into your GitHub account in GitHub Desktop
+1. Download [Git](https://git-scm.com/downloads)
+2. Make [GitHub](https://github.com/) account
+3. Join the [Nowacek Lab](https://github.com/NowacekLab) organization
+4. Download [GitHub Desktop](https://desktop.github.com/)
+5. Login into your GitHub account in GitHub Desktop
 
 ### Some basics
 
