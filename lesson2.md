@@ -10,7 +10,7 @@ A quick PSA: if you want to use another repository that is not in this organizat
 
 For this group, we will mostly be interested in accessing remote repositories that exist on the Nowacek Lab organization that we want to use/adapt for our project. 
 
-The general process on should follow is **Clone in GitHub** ...  **Open in GitHub Desktop** ... **Specify location for local repository to be stored** ... **Now you have copies of all the files locally that you can edit and use!** 
+The general process one should follow is **Clone in GitHub** ...  **Open in GitHub Desktop** ... **Specify location for local repository to be stored** ... **Now you have copies of all the files locally that you can edit and use!** 
 
 Let's practice a real-life example!
 
