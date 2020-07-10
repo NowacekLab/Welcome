@@ -11,7 +11,7 @@ For this group, we will mostly be interested in accessing remote repositories th
 3. Specify location for local repository to be stored
 4. Now you have copies of all the files locally that you can edit and use! 
 
-### Ways to create a respository 
+### Ways to create a repository 
 
 We also may have code that we want to contribute to the repository for others to use OR we may want to work on a new project collaboratively.  There are a few ways to start a new repo, each of which may be more useful depending on the way your project may already exist locally.
 
