@@ -60,4 +60,4 @@ Hopefully by the end of this lesson you feel less like this...
 
 <br>
 
-On to [Lesson 2!](https://github.com/NowacekLab/Welcome/blob/master/lesson2.md)
+##On to [the next lesson!](https://github.com/NowacekLab/Welcome/blob/master/lesson2.md)
