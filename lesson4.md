@@ -35,4 +35,4 @@ We also may have code that we want to contribute to the repository for others to
 <br>
 <br>
 
-###(Go [back a lesson!](https://github.com/NowacekLab/Welcome/blob/master/lesson3.md))
+### Go [back a lesson!](https://github.com/NowacekLab/Welcome/blob/master/lesson3.md)
