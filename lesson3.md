@@ -18,9 +18,11 @@ Now that you've cloned the repository, you are going to want to work with the fi
 6. Make a change in the "file_you_want_to_access.txt' or add a new file and save your changes
 7. In GitHub Desktop you should now see the contents of your repo and the changes you have made to files
 
-### Push these changes to the new branch on GitHub
+### Commit these changes to git (saving your changes locally) - think of this as a checkpoint you can always come back to
 8. Now you want to commit these changes to your local repo. Give a descriptive commit message in the bottom left of the screen in GitHub Desktop near your profile image. 
 9. Click "Commit"
+
+### Now Push these changes to the cloud
 10. Now you want to push these changes to your branch to the remote GitHub repository. Click "Push Origin"
 11. You should be able to see the changes that you just made reflected in the files in your branch on the GitHub website
 
