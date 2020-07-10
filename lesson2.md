@@ -1,1 +1,1 @@
-### Using GitHub and GitHub Desktop
+## Creating and accessing local and remote repositories
