@@ -100,4 +100,23 @@ When you make any change to any file in your project (and save it), you’re mak
 
 With each commit, you have the opportunity to write a commit message (**do it!**), a short, meaningful (**the more descriptive the better!**) comment describing the change you’re making to a file. So you always know exactly what changed, no matter when you return to a commit. For the most part when you make a commit you'll want to commit to the `master` branch. The alternative is to "Create a **new branch** for this commit and start a pull request," which you'll only want to use when you make changes on your own 'branch' of the repo and bascially want to offer those changes to the `master` branch to consider which they can later choose to accept or not.
 
+#### Terminal/Git Bash commands
 
+When you start messing with the command line there are some key commands you need to know. I think the command line is where people tend to get a little freaked out, but if you have these commands down you'll be fine. 
+
+**`pwd`** Print working directory. This tells you where you are in your folder structure. 
+
+**`ls`** List stuff (idk if this is what it actually means but this is always what I say in my head). This will show you all of the files in the current folder. 
+
+**`cd`** Change directory. Used in the context of `cd Desktop/MyFolder` it will take you to "My Folder"
+
+**`cd ..`** Moves you up a level in your folder structure. 
+
+**`cd ~`** Takes you to your home directory. If you get to a scary place this is very useful more getting out.
+
+**`exit`** Techinically how you should close the terminal... clicking the x works too but its not recommended.
+
+**`Ctrl + C`** When you write an infinite loop and need to get out.
+
+<br>
+<br>
