@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="http://bestanimations.com/Holidays/Fireworks/fireworks/gold-fireworks-mass-gif.gif#.XwiptY4191Y.link" />
+  <img src="https://cdn.clipart.email/dfce19d5dd38cab91c91171a072957db_confetti-gif-transparent-background-6-gif-images-download_1000-294.gif" />
 </p>
 
 <br>
