@@ -13,7 +13,7 @@ For this group, we will mostly be interested in accessing remote repositories th
 
 ### Ways to create a respository 
 
-We also may have code that we want to contribute to the repository for others to use OR we may want to work on a new project collboratively.  There are a few ways to start a new repo, each of which may be more useful depending on the way your project may already exist locally.
+We also may have code that we want to contribute to the repository for others to use OR we may want to work on a new project collaboratively.  There are a few ways to start a new repo, each of which may be more useful depending on the way your project may already exist locally.
 
 **Option #1: Starting on GitHub (remote first, then local)**
 
