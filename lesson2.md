@@ -20,7 +20,9 @@ Let's practice a real-life example!
 3. Your browser shoudl redirect you to GitHub Desktop but you might have to allow it because #chromethings
 4. In GitHub Desktop you will now see an open window that asks you for some info... all you need to give it is the Local Path. This is where the files and the local repository will live on your computer. 
 5. Click clone!
-6. Check the Local Path you gave it and see if the files are there... hopefully they are. 
+6. Check the Local Path you gave it and see if the files are there...  
+
+![Fireworks GIF](https://www.google.com/url?sa=i&url=http%3A%2F%2Fbestanimations.com%2FHolidays%2FFireworks%2FFireworks.html&psig=AOvVaw0pUlrdpOyZbZWzQOVu_ive&ust=1594489601705000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMiOxeeew-oCFQAAAAAdAAAAABAD)
 
 ### Ways to create a repository 
 
