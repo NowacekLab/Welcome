@@ -52,10 +52,12 @@ In many ways, you can think of a Git repository as a directory that stores all t
 
 <br>
 <br>
-<br>
 
 Hopefully by the end of this lesson you feel less like this...
 <p align="center">
   <img src="https://imgs.xkcd.com/comics/git.png" />
 </p>
 
+<br>
+
+On to [Lesson 2!](https://github.com/NowacekLab/Welcome/blob/master/lesson2.md)
