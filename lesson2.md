@@ -18,7 +18,9 @@ Let's practice a real-life example!
 1. Open the [PracticeRepo](https://github.com/NowacekLab/PracticeRepo) in a new tab
 2. In upper right, click green "Code" and in the drop down click "Open in GitHub Desktop"
 3. Your browser shoudl redirect you to GitHub Desktop but you might have to allow it because #chromethings
-4. In GitHub Desktop you will now see an open window that asks you for some info. 
+4. In GitHub Desktop you will now see an open window that asks you for some info... all you need to give it is the Local Path. This is where the files and the local repository will live on your computer. 
+5. Click clone!
+6. Check the Local Path you gave it and see if the files are there... hopefully they are. 
 
 ### Ways to create a repository 
 
