@@ -13,8 +13,8 @@ Now that you've cloned the repository, you are going to want to work with the fi
 
 ### Make some changes in a new branch (using a text editor, aka the more common way)
 
-5. You can now edit these files, add more files to the folder, add new folders, etc. This may be done in any text editor or your File Explorer (Atom, Notepad, Matlab, RStudio, VS Code, etc)
-6. Make a change in the "file_you_want_to_access.txt' or add a new file. Save your changes
+5. In GitHub Desktop (confirm that your Current Branch is the branch that you just made) you can now edit these files, add more files to the folder, add new folders, etc. This may be done in any text editor or your File Explorer (Atom, Notepad, Matlab, RStudio, VS Code, etc)
+6. Make a change in the "file_you_want_to_access.txt' or add a new file and save your changes
 7. In GitHub Desktop you should now see the contents of your repo and the changes you have made to files
 
 ### Push these changes to the new branch on GitHub
