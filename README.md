@@ -67,9 +67,13 @@ Create a new repo,
 Publish it to the Nowacek Lab GitHub organization,
 If you fix bugs in the future commit those changes!
 
+More coming soon!
+
 ---
 
 ### I want to actively work on code/a toolbox with another lab member and want to store our work on the Nowacek Lab GitHub organization, how do I add my files/edit them?
+
+Coming soon!
 
 ---
 
