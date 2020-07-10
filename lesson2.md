@@ -1,3 +1,5 @@
+# Lesson 2
+
 ## Accessing and creating local and remote repositories
 
 Like mentioned in the last lesson, you can maintain both local and remote Git repositories. In this lesson, we are going to discuss  a couple of ways to access existing repositories, a couple of ways to create repositories, and how to use GitHub Desktop to make sure that as you build or work in respositories those changes are reflected both locally and remotely. This last part is important, especially when collaborating on code, to make sure that everyone can see your changes when you've added to or improved code and to make sure that when  others make changes, you are working with the most up-to-date code. 
@@ -10,6 +12,13 @@ For this group, we will mostly be interested in accessing remote repositories th
 2. Open in GitHub Desktop
 3. Specify location for local repository to be stored
 4. Now you have copies of all the files locally that you can edit and use! 
+
+Let's practice a real-life example!
+
+1. Open the [PracticeRepo](https://github.com/NowacekLab/PracticeRepo) in a new tab
+2. In upper right, click green "Code" and in the drop down click "Open in GitHub Desktop"
+3. Your browser shoudl redirect you to GitHub Desktop but you might have to allow it because #chromethings
+4. In GitHub Desktop you will now see an open window that asks you for some info. 
 
 ### Ways to create a repository 
 
