@@ -19,7 +19,7 @@ We also may have code that we want to contribute to the repository for others to
 2. Give your repository a name, description, set the path for the local repository, and initialize with a README
 3. Publish the repo to GitHub 
 
-**Option #3: Starting in GitHub Desktop (local then remote). This is what you want to your code already exists locally.**
+**Option #3: Starting in GitHub Desktop (local then remote, this is what you want if your code already exists locally)**
 1. Drop down "Current repository" and on the top right you should see "Add." Drop that down and select "Create new repository"
 2. It will ask you for a name, the local paath of the folders that you want in this repo, and give you the option of initialzing with a README (you should).
 3. Now "Publish repo to GitHub," and I think here you should be able to select organization
