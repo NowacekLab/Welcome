@@ -11,7 +11,7 @@ The purpose of having this GitHub organization is to 1) share finished code/tool
 <br>
 
 <p align="center">
-  <img src="https://media.makeameme.org/created/here-we-go-44fe684994.jpg", height="300" />
+  <img src="https://media.makeameme.org/created/here-we-go-44fe684994.jpg", height="400" />
 </p>
  
 
