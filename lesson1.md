@@ -3,8 +3,8 @@
 ## Getting set up with GitHub and GitHub Desktop
 
 1. Follow [instructions](https://www.atlassian.com/git/tutorials/install-git) to download and install Git onto your machine
-2. Make a [GitHub](https://github.com/) account (you should have one if you are veiwing this)
-3. Join the [Nowacek Lab](https://github.com/NowacekLab) organization (you should have already if you are veiwing this)
+2. Make a [GitHub](https://github.com/) account (you should have one if you are viewing this)
+3. Join the [Nowacek Lab](https://github.com/NowacekLab) organization (you should have already if you are viewing this)
 4. Download [GitHub Desktop](https://desktop.github.com/)
 5. Login into your GitHub account in GitHub Desktop
 
