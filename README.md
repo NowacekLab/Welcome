@@ -3,7 +3,7 @@ This repository will help you to get started with the Nowacek Lab GitHub organiz
 
 The purpose of having this GitHub organization is to 1) share finished code/toolboxes between people in the lab and 2) work on analyses for projects that are collaborations between lab members. Individual projects that are unfinished are best kept on your personal GitHub.
 
-### How do I get set started with all the whales and stuff?
+### How do I get set started?
 1. Make a GitHub account. If you are viewing this you probably already have one. 
 
 2. Download the [GitHub Desktop](https://desktop.github.com/) app. This GUI will let you interact with GitHub from the desktop and will allow you to push/pull changes that you may make both locally and in your repo on the GitHub website without needing to use the terminal. 
@@ -13,7 +13,7 @@ The purpose of having this GitHub organization is to 1) share finished code/tool
 
 ---
 
-### I want to use code/a toolbox that exists in the Nowacek Lab GitHub organization, how do I get copies of the files?
+### I want to use code/a toolbox that exists in the Nowacek Lab GitHub organization, how can I use these files?
 
 1. Go to the [home page](https://github.com/NowacekLab) and click on the name of the repo where the code exists that you want to use. 
 
