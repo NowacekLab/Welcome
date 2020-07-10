@@ -2,7 +2,7 @@
 
 ## Accessing repositories
 
-Like mentioned in the last lesson, you can maintain both local and remote Git repositories. In this lesson, we are going to discuss one way to access existing repositories.
+Like mentioned in the last lesson, you can maintain both local and remote Git repositories. In this lesson we are going to discuss one way to access remote repositories that exist on the Nowacek Lab organization.
 
 A quick PSA: if you want to use another repository that is not in this organization as a starting point for your work, you most likely will **NOT** want to follow these instructions. Instead, you will probably want to [**fork**](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) this repository instead.
 
