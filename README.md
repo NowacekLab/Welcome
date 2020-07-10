@@ -4,13 +4,14 @@ This repository will help you to get started with the Nowacek Lab GitHub organiz
 The purpose of having this GitHub organization is to 1) share finished code/toolboxes between people in the lab and 2) work on analyses for projects that are collaborations between lab members. Individual projects that are unfinished are best kept on your personal GitHub.
 
 
-### We've written a step-by-step lesson plan to get you up to speed with the most common functionalities of Git and GitHub. Start here with [Lesson 1](https://github.com/NowacekLab/Welcome/blob/master/lesson1.md). The rest of the information on this page will be helpful for you to refer back to later when you start working in the organization.
+### We've written a step-by-step lesson plan to get you up to speed with the most common functionalities of Git and GitHub. Start here with [Lesson 1](https://github.com/NowacekLab/Welcome/blob/master/lesson1.md). 
+
+The rest of the information on this page will be helpful for you to refer back to later when you start working in the organization.
 
 <br>
 
 ---
-
-
+https://memegenerator.net/img/instances/81909582/ok-team-lets-do-this.jpg
 ---
 
 <br>
