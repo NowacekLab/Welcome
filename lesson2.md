@@ -2,7 +2,7 @@
 
 ## Accessing repositories
 
-Like mentioned in the last lesson, you can maintain both local and remote Git repositories. In this lesson, we are going to discuss a couple of ways to access existing repositories, a couple of ways to create repositories, and how to use GitHub Desktop to make sure that as you build or work in respositories those changes are reflected both locally and remotely. This last part is important, especially when collaborating on code, to make sure that everyone can see your changes when you've added to or improved code and to make sure that when  others make changes, you are working with the most up-to-date code. 
+Like mentioned in the last lesson, you can maintain both local and remote Git repositories. In this lesson, we are going to discuss one way to access existing repositories.
 
 ### How to access a respository
 
