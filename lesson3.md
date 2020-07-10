@@ -12,13 +12,13 @@ Now that you've cloned the repository, you are going to want to work with the fi
 2. Click on it and click "New Branch". Create a new branch, maybe call it "yournames_branch"
 3. Publish your branch to GitHub by clicking "Publish branch"
 4. Now you have a new branch with copies of all of the files in the `master` branch
-### Make some changes in a new branch (using a text editor, aka the more common way)
+### Make some changes in a new branch (using a text editor or IDE, aka the more common way)
 
-5. In GitHub Desktop (confirm that your Current Branch is the branch that you just made) you can now edit these files, add more files to the folder, add new folders, etc. This may be done in any text editor or your File Explorer (Atom, Notepad, Matlab, RStudio, VS Code, etc)
+5. In GitHub Desktop (confirm that your Current Branch is the branch that you just made) you can now edit these files, add more files to the folder, add new folders, etc. This may be done in any text editor, IDE, or your File Explorer (Atom, Notepad, Matlab, RStudio, VS Code, etc)
 6. Make a change in the "file_you_want_to_access.txt' or add a new file and save your changes
 7. In GitHub Desktop you should now see the contents of your repo and the changes you have made to files
 
-### Commit these changes to git (saving your changes locally) - think of this as a checkpoint you can always come back to
+### Commit these changes to Git (i.e. saving your changes locally, think of this as a checkpoint you can always come back to)
 8. Now you want to commit these changes to your local repo. Give a descriptive commit message in the bottom left of the screen in GitHub Desktop near your profile image. 
 9. Click "Commit"
 
