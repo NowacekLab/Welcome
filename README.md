@@ -10,9 +10,9 @@ The purpose of having this GitHub organization is to 1) share finished code/tool
 
 <br>
 
-<p style="text-align:center;">
-  <img src = "https://media.giphy.com/media/LnhtN5kEFZxTstNJIX/giphy.gif">
-</p>
+[<p align ="center">
+  <img src = "https://media.giphy.com/media/LnhtN5kEFZxTstNJIX/giphy.gif" />
+</p>](https://github.com/NowacekLab/Welcome/blob/master/lesson1.md)
 
 <br>
 <br>
