@@ -10,6 +10,10 @@ The purpose of having this GitHub organization is to 1) share finished code/tool
 
 <br>
 
+<p style="text-align:center;">
+  <img src = "https://media.giphy.com/media/LnhtN5kEFZxTstNJIX/giphy.gif">
+</p>
+
 <br>
 <br>
 <br>
