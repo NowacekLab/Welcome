@@ -10,7 +10,10 @@ The purpose of having this GitHub organization is to 1) share finished code/tool
 
 <br>
 
-<a href="https://github.com/NowacekLab/Welcome/blob/master/lesson1.md" rel="some text">![Foo](https://media.giphy.com/media/LnhtN5kEFZxTstNJIX/giphy.gif)</a>
+<p align="center">
+  <img width="400"  src="https://media.giphy.com/media/LnhtN5kEFZxTstNJIX/giphy.gif">
+</p>
+
 
 <br>
 <br>
@@ -46,7 +49,7 @@ The purpose of having this GitHub organization is to 1) share finished code/tool
 
 <img src="/img/clonerepo_4.PNG" width="600" />
 
-5. Click clone!
+5. Click clone)
 
 6. Now you have the files from the GitHub repo locally (you can check the Local Path you gave GitHub Desktop to make sure) and can use them like any other file. You will also see the repository appear in your GitHub Desktop and should see that everything is up to date.  
 
