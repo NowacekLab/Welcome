@@ -34,4 +34,4 @@
 <br>
 <br>
 
-### Go [back a lesson!](https://github.com/NowacekLab/Welcome/blob/master/lesson3.md)
+## Go [back a lesson!](https://github.com/NowacekLab/Welcome/blob/master/lesson3.md)
