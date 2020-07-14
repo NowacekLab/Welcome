@@ -6,7 +6,7 @@ The purpose of having this GitHub organization is to 1) share finished code/tool
 
 
 
-### We've written a step-by-step lesson plan to get you up to speed with the most common functionalities of Git and GitHub. Let's get started with [Lesson 1!](https://github.com/NowacekLab/Welcome/blob/master/lesson1.md) 
+### We've written a step-by-step lesson plan to get you up to speed with the most useful functionalities of Git and GitHub. Let's get started with [Lesson 1!](https://github.com/NowacekLab/Welcome/blob/master/lesson1.md) 
 
 <br>
 
