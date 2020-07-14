@@ -1,7 +1,7 @@
 # Lesson 1 (A pre-tutorial tutorial)
 
 ## Getting set up with GitHub and GitHub Desktop
-
+<!-- 1. Check to see if you have git already installed on your [Mac](http://modulesunraveled.com/installing-git/checking-see-if-you-already-have-git-installed-mac) or [Windows](http://modulesunraveled.com/installing-git/checking-see-if-you-already-have-git-installed-windows-machine) machine -->
 1. [Download](https://git-scm.com/) and install Git onto your machine
 2. Make a [GitHub](https://github.com/) account (you should have one if you are viewing this)
 3. Join the [Nowacek Lab](https://github.com/NowacekLab) organization (you should have already if you are viewing this)
