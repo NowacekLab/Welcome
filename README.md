@@ -93,6 +93,12 @@ Coming soon!
 
 ---
 
+### Using Git and GitHub with other IDEs/text editors (RStudio, MATLAB, Atom)
+
+1. [RStudio](https://happygitwithr.com/rstudio-git-github.html)
+2. [Matlab](https://www.mathworks.com/help/simulink/ug/set-up-git-source-control.html)
+3. [Atom](https://flight-manual.atom.io/using-atom/sections/github-package/) 
+
 ### More information about GitHub
 
 #### What is a repository? (adapted from the GitHub documentation)
