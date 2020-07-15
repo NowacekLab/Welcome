@@ -19,9 +19,11 @@
 3. Publish the repo to GitHub 
 
 **Option #2: You already have code! (from Github Desktop)**
-1. In GitHub Desktop, drop down "Current repository" and on the top right you should see "Add." Drop that down and select "Create new repository"
-2. It will ask you for a name, the local paath of the folders that you want in this repo, and give you the option of initialzing with a README (you should).
-3. Now "Publish repo to GitHub," and I think here you should be able to select organization
+1. In GitHub Desktop, drop down "File" and on the top right you should see "Add local respository"
+2. It will ask you for the local path of the folders that you want in this repo, so find your folder and select it
+3. It should give you a warning that there is no repo here, click the "Create a new respository link"
+4. and give you the option of initialzing with a README (you should).
+5. Now "Publish repo to GitHub," and I think here you should be able to select organization
 4. You should be able to see your files on the GitHub website now
 
 <br>
