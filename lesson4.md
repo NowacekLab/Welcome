@@ -7,7 +7,7 @@
 
 **Option #1a: You have an idea for a new repo but no code! (from GitHub Website)**
 
-1. Click "New" on Nowacek Lab github website
+1. Click "New" on Nowacek Lab Github website
 2. Give your repository a name, description, and initialize with a README
 3. Follow the instructions in the "Ways to access a repository" to add this repository to your GitHub Desktop and create a local repository
 4. Add files through the normal File Explorer and edit files through any IDE/text editor
